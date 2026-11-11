@@ -3,5 +3,5 @@ StrobeCut is a powerful mobile video editor featuring multi-layer editing, advan
 
 ## Screenshots
 
-![StrobeCut Editor](color_grading.png)
+![StrobeCut Editor](Color_grading.png)
 
