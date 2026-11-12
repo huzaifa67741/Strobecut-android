@@ -67,5 +67,5 @@ StrobeCut – Your creative studio, right on your phone.
 
 ## Screenshots
 
-![StrobeCut Editor](Color_grading.png)
+![color grading]! (Color_grading.png)
 
