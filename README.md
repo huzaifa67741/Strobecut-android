@@ -66,4 +66,5 @@ Edit. Create. Export.
 StrobeCut – Your creative studio, right on your phone.
 
 ## Screenshots
-![Strobecut-android]! (Color_grading.png)
+
+![StrobeCut Editor](Color_grading.png)
