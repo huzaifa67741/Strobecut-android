@@ -1,69 +1,27 @@
 # Strobecut-android
-StrobeCut – Advanced Video Editor
+StrobeCut — Professional Video Editing, Made for Mobile
 
-Bring your video ideas to life with StrobeCut, a powerful mobile video editor designed to give you greater creative control over your edits. From cinematic montages and social media videos to creative projects and professional-style edits, StrobeCut puts a wide range of editing tools right at your fingertips.
+StrobeCut is a mobile video editing app built for creators who want more control over their videos without needing a computer or complicated desktop software. Whether you're making cinematic edits, social media content, gaming videos, documentaries, travel videos or short films, StrobeCut brings together the tools you need to turn your footage into something that feels truly your own.
 
-Whether you're making a quick video or building a detailed multi-layer project, StrobeCut gives you the tools to customize your footage, create smooth transitions, enhance colors, animate elements, and produce videos directly from your Android device.
+At its heart, StrobeCut is designed around a proper timeline-based editing experience. Instead of limiting you to a few simple templates and filters, it gives you the freedom to work with multiple clips, images, audio tracks and text layers in one project. You can arrange your footage, trim clips, adjust timing, build transitions and work with different layers to create edits that match your vision. The goal is to give mobile creators more creative freedom and make detailed editing feel comfortable on a touchscreen.
 
-🎬 Multi-Layer Timeline Editing
+Color grading is one of the areas where StrobeCut puts a strong emphasis on creative control. Its grading workspace includes tools for exposure, contrast, highlights, shadows, white balance, RGB curves, color wheels and HSL adjustments. You can work with LUTs, make selective color corrections and use scopes to help understand the image you're working with. Whether you're going for a natural look, a cinematic atmosphere, rich colors or a completely different visual style, you have room to shape the image instead of relying on a preset to do everything for you.
 
-Take control of your editing with a flexible timeline that supports multiple layers. Combine video clips, images, text, and other editing elements in one project.
+StrobeCut also includes a dedicated chroma key feature for removing green or blue backgrounds and creating composite scenes. With controls for color selection, tolerance, feathering and spill suppression, you can refine the result and combine footage with other visual layers. This opens up more possibilities for creators who want to experiment with backgrounds, overlays and visual effects.
 
-- Add and arrange multiple clips on the timeline.
-- Work with multiple layers of the same type.
-- Organize your tracks using layer groups.
-- Move, trim, and adjust clips to match your desired timing.
-- Manage complex projects with a more organized editing workspace.
+Audio is just as important as the visuals. StrobeCut's audio workspace brings sound editing into the main editing experience, with tools for clip volume, stereo panning, equalization, compression, limiting, reverb and volume automation. You can shape the sound of individual clips, balance different audio elements and make adjustments directly within your project. Instead of treating audio as an afterthought, StrobeCut gives it its own dedicated workspace.
 
-🎨 Advanced Color Grading
+For creators who enjoy adding movement and personality to their edits, the app also includes keyframe-based controls, transitions, text and visual effects. These tools make it possible to animate elements, build more interesting sequences and create edits that go beyond simple cuts. You can experiment with timing, movement, color and sound until the result feels right.
 
-Give your footage a distinctive visual style with powerful color adjustment tools. Fine-tune the appearance of your videos to create cinematic looks, vibrant visuals, or more natural colors.
+The interface follows a dark black-and-green visual theme, with touch-friendly controls and dedicated editing panels. It is designed specifically for mobile use, keeping important tools accessible while giving you space to work on the timeline. The idea is not simply to shrink a desktop editor onto a phone, but to build an editing experience that makes sense on a touchscreen.
 
-- Adjust brightness, contrast, saturation, and other image properties.
-- Fine-tune colors using advanced grading controls.
-- Customize the look of your footage with color presets.
-- Create different visual styles for different scenes.
-- Make your footage more consistent across multiple clips.
+StrobeCut is made for people who want to take mobile editing further. It is for creators who enjoy experimenting with color, people who care about the details of their audio, editors who work with multiple layers, and anyone who wants more control over the final result.
 
-✨ Transitions and Visual Effects
+From arranging the first clip to making the final color adjustments and preparing the export, StrobeCut brings video, audio, effects and creative control together in one mobile editing workspace.
 
-Create smoother, more engaging edits with a selection of transitions and visual effects. Add movement and visual variety between clips to give your projects a more polished feel.
+Your footage. Your style. Your timeline. Your edit.
 
-Explore transition styles such as dissolves, fades, slides, zooms, blur effects, and more, alongside creative visual effects for different editing styles.
-
-🔤 Text and Titles
-
-Add titles, captions, subtitles, and creative text elements to your videos. Customize their appearance to match the style of your project.
-
-- Create and customize text layers.
-- Add multiple text elements to a project.
-- Use different text styles and visual designs.
-- Position and time text on the timeline.
-- Create animated text using keyframes.
-
-🎞️ Keyframe Animation
-
-Get more control over movement and animation with keyframes. Animate supported properties over time to create dynamic effects and give your edits a more customized look.
-
-🎧 Audio and Video Editing
-
-Build your projects by combining and arranging your media on the timeline. Control the placement and timing of your clips and audio elements to create edits that fit your intended result.
-
-📱 Designed for Mobile
-
-StrobeCut brings a multi-layer editing workflow to Android, with editing controls designed for a mobile screen. Work on your projects without needing a desktop computer.
-
-📤 Export Your Projects
-
-When your edit is ready, export your finished video for sharing or keeping on your device. StrobeCut supports MP4 and WebM video export.
-
-Create Without Limits
-
-StrobeCut is built for creators who want more control over their mobile video editing. Experiment with colors, combine layers, animate text, explore transitions, and develop your own editing style.
-
-Edit. Create. Export.
-
-StrobeCut – Your creative studio, right on your phone.
+StrobeCut — Create beyond the ordinary.
 
 ## Screenshots
 
